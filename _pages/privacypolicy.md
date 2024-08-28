@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 # Ohana App Privacy Policy
 
 Last updated: August 28, 2024
@@ -68,4 +74,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-[Ohana Contact Information]
+davidhaydev@proton.me
