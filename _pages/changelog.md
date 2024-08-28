@@ -4,15 +4,13 @@ title: What's New
 include_in_header: true
 ---
 
-### `Coming Soon`
-
 # Changelog
 
 We're excited to announce that Ohana, your family's elder care coordination app, is currently under review for App Store approval. We can't wait to bring you a smoother, more connected caregiving experience.
 
 <br>
 
-### `Pending App Store Approval`
+### `Coming Soon`
 
 # **Version 1.0**
 
